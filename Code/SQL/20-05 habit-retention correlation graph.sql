@@ -140,6 +140,6 @@ select
         *
 from
 vc_week_wide
-where w3_v400=1
+
 
 
